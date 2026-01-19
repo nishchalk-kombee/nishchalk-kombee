@@ -12,9 +12,9 @@
   1. **kansaranishchal@gmail.com**
   2. **https://www.linkedin.com/in/nishchal-kansara/**
 
-![](https://komarev.com/ghpvc/?username=nishchal-kansara&color=green&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
-![](https://img.shields.io/github/followers/nishchal-kansara?style=for-the-badge&color=green&abbreviated=true)
-![](https://img.shields.io/github/stars/nishchal-kansara?style=for-the-badge&color=green&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=nishchalk-kombee&color=green&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
+![](https://img.shields.io/github/followers/nishchalk-kombee?style=for-the-badge&color=green&abbreviated=true)
+![](https://img.shields.io/github/stars/nishchalk-kombee?style=for-the-badge&color=green&abbreviated=true)
 
 ###
 
